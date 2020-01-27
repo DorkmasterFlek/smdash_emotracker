@@ -1,6 +1,6 @@
 ﻿{
   "name": "Super Metroid DASH Randomizer Map Tracker",
-  "game_name": "Super Metroid Randomizer",  // FIXME
+  "game_name": "Super Metroid Randomizer",
   "game_variant": "DASH Randomizer v9",
   "platform": "snes",
   "package_version": "1.0.0",
