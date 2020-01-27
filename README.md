@@ -1,4 +1,4 @@
-# Super Metroid DASH tracker pack
+# Super Metroid DASH Map Tracker Pack
 This is a map & item tracker for the [Super Metroid DASH randomizer](https://dashrando.github.io) for use with [EmoTracker](https://emotracker.net).  It has full item and map tracking support, as well as autotracking on supported platforms.
 
 ## Thanks
