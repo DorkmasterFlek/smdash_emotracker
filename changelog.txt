@@ -1,3 +1,7 @@
+1.0.1
+-----
+Fixed pink Brinstar missile locations on Brinstar zone map
+
 1.0.0
 -----
 Initial release
